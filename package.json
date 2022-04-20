@@ -1,0 +1,38 @@
+{
+  "name": "NuxtSharpAnt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/style-resources": "^1.2.1",
+    "aos": "^2.3.4",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.19.3",
+    "fibers": "^5.0.0",
+    "nuxt": "^2.15.8",
+    "particles.js": "^2.0.0",
+    "sass-loader": "10",
+    "swiper": "5.4.5",
+    "v-click-outside": "^3.1.2",
+    "vue": "^2.6.14",
+    "vue-agile": "^2.0.0",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14",
+    "vue-toastification": "^1.7.14",
+    "vuelidate": "^0.7.7",
+    "webpack": "^4.46.0",
+    "yarn": "^1.22.17"
+  },
+  "devDependencies": {
+    "@aceforth/nuxt-optimized-images": "^1.4.0",
+    "sass": "^1.45.1",
+    "vue-particles": "^1.0.9"
+  }
+}
